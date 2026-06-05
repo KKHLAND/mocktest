@@ -1,0 +1,6 @@
+{
+  "name": "영어 모의고사 해설지 생성기",
+  "description": "A high-fidelity tool to generate detailed Korean explanation sheets from English mock exam PDFs using Gemini AI, featuring A4 preview and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
